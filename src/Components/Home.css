@@ -114,3 +114,14 @@
 .done{
     margin-top: -10px;
 }
+
+.star{
+    color: red;
+}
+
+.submit{
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    width: fit-content;
+    margin-left: 480px;
+}
