@@ -1,0 +1,116 @@
+.incontainer{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width:70%;
+    height: fit-content;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 25px -5px black;
+
+
+}
+.detailform{
+    margin: 20px;
+    margin-top: 10px;
+    /* border: 1px solid #ccc; */
+    height: fit-content;
+    width: fit-content;
+}
+
+.closebtn{
+    /* border: 1px solid #ccc; */
+    height: fit-content;
+    width: fit-content;
+    margin-left: 490px;
+    margin-top: -60px;
+}
+
+.closebtn button{
+    color: red;
+}
+
+.lane{
+    /* border:1px solid #ccc; */
+    margin-top: 5px;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 10px;
+}
+.maininputs{
+    /* border: 1px solid #ccc; */
+    height: 50px;
+    width: fit-content;
+    margin-left: 7px;
+    margin-top: 5px;
+}
+
+.maininputs input, .maininputstwo input{
+    margin-left: 10px;
+    margin-top: 5px;
+    border: none;
+    border-bottom: 2px solid #ccc;  
+    width: 70px;
+}
+
+.maininputstwo{
+    /* border: 1px solid #ccc; */
+    margin-top: -50px;
+    height: 50px;
+    width: fit-content;
+    margin-left: 300px;
+}
+
+.ram{
+    /* border:1px solid rgb(250, 5, 5); */
+    margin-top: 5px;
+    height: 65px;
+    width: fit-content;
+    margin-left: 10px;
+}
+.raminput{
+    /* border: 1px solid rgb(241, 226, 2); */
+    height: 50px;
+    width: fit-content;
+    margin-left: 7px;
+    margin-top: 5px;
+}
+
+.raminput input, .raminputtwo input{
+    margin-left: 10px;
+    margin-top: 5px;
+    border: none;
+    border-bottom: 2px solid #ccc;  
+    width: 70px;
+}
+
+.raminputtwo{
+    /* border: 1px solid rgb(76, 255, 5); */
+    margin-top: -33px;
+    height: 50px;
+    width: fit-content;
+    margin-left: 300px;
+}
+
+.unit{  
+    /* border: 1px solid #ccc; */
+    margin-top: -40px;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 180px; 
+}
+
+.unittwo{  
+    /* border: 1px solid #ccc; */
+    margin-top: -40px;
+    height:fit-content; 
+    width: fit-content;
+    margin-left: 460px; 
+}
+
+.vcpu{
+    margin-top: -10px;
+}
+
+.done{
+    margin-top: -10px;
+}
