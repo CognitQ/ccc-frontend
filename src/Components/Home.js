@@ -56,7 +56,10 @@ export const Home = (props) => {
       if (id === i.id) {
         i[event.target.name] = event.target.value;
       }
-    
+      if (id.maxPods < id.minPods) {
+        alert("max pods cant be less than min pods");
+      }
+
       return i;
     });
 
