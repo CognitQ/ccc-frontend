@@ -1,9 +1,11 @@
-import { Sidebar } from "./Components/Sidebar";
+import { Secondpage2 } from "./Components/Secondpage2";
+
 
 function App() {
   return (
     <div className="App">
-      <Sidebar />
+      
+      <Secondpage2/>
     </div>
   );
 }

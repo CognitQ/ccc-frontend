@@ -29,6 +29,7 @@ export const Sidebar = () => {
                   <button
                     className="nav-link align-middle px-0"
                     onClick={() => setDeployment(true)}
+                    
                   >
                     <i className="fs-4 bi-house"></i>{" "}
                     <span className="ms-1 d-none d-sm-inline">Deployment</span>
@@ -40,10 +41,12 @@ export const Sidebar = () => {
                     className="nav-link px-0 align-middle"
                     onClick={() => setDeployment(false)}
                   >
+        
                     <i className="fs-4 bi-people"></i>{" "}
                     <span className="ms-1 d-none d-sm-inline">Demonset</span>{" "}
                   </button>
                 </li>
+                
 
                 <li>
                   <button className="nav-link px-0 align-middle" onClick={clearAll}>
